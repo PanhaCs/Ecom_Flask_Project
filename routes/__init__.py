@@ -6,3 +6,4 @@ from routes.category import *
 from routes.order import *
 from routes.order_detail import *
 from routes.invoice import *
+from routes.user_registration import *
